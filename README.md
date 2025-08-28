@@ -9,4 +9,4 @@ This is my first creation, a discord bot. Its main purpose is to sort garbage an
 ## Technology
 * Tensorflow & Google Teachable Machine
 * Discord.py
-* Python
+* External API
