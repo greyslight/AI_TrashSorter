@@ -1,0 +1,8 @@
+0 plastik
+1 kaca
+2 ban
+3 rokok
+4 botol plastik
+5 kertas
+6 kardus
+7 kaleng
